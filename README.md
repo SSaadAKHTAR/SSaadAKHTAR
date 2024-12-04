@@ -24,7 +24,6 @@
   <img src="https://komarev.com/ghpvc/?username=SSaadAKHTAR&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="SSaadAKHTAR" style="padding-right:20px;" />
 </p>
 
----
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
