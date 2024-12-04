@@ -24,6 +24,8 @@
   <img src="https://komarev.com/ghpvc/?username=SSaadAKHTAR&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="SSaadAKHTAR" style="padding-right:20px;" />
 </p>
 
+<br /> 
+
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
@@ -34,18 +36,6 @@
 </picture>
 <br />
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring Mobile App developmet with Flutter.</li>
-  <li>Improving my skills in Data Analytics with AWS.</li>
-</ul>
-  
-<h3 align="left">Latest Projects</h3>
-<ul align="left">
-  
-  <li><a href="https://github.com/SSaadAKHTAR/oxygen">🧙‍♂️ Oxygen: A RISC-V assembly simulator</a></li>
-  <li><a href="https://github.com/SSaadAKHTAR/RV32I-Five-Stage-Pipeline">🚀 RV32I: A 5 stage pipeline</a></li>
 
  
  <br>
@@ -55,7 +45,38 @@
 <br />
 <br />
 
+<br />
+<br />
+<br />
+<br />
+<!--  -->
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+<!--  -->
+
+<!--Languages and Tools Section-->  
+<br >
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring Mobile App developmet with Flutter.</li>
+  <li>Improving my skills in Data Analytics with AWS.</li>
+</ul>
+  
+<h3 align="left">Latest Project</h3>
+<ul align="left">
+  
+  <li><a href="https://github.com/SSaadAKHTAR/oxygen">🧙‍♂️ Oxygen: A RISC-V assembly simulator</a></li>
+
+ <br>
+</ul>
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <br>
