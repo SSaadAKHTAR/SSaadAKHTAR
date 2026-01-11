@@ -15,7 +15,7 @@
 <p align="left">I am a programmer and Machine Learning Enthusiast with a huge love for Python, Chisel, Java, Django, DBMS and Data Visualization. </p>
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Research Intern at @MERL
+- 💁‍♂️ Research Assistant at @MERL
 - ❤ Contributing to Open Source.
 <!--End Intro-->
 
@@ -65,7 +65,8 @@
 <br >
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Deepening my knowledge in Machine Learning and GenAI.</li>
+  <li>Also practicing RAG and using local LLM's for automation.</li>
   <li>Exploring Mobile App developmet with Flutter.</li>
   <li>Improving my skills in Data Analytics with AWS.</li>
 </ul>
@@ -73,7 +74,7 @@
 <h3 align="left">Latest Project</h3>
 <ul align="left">
   
-  <li><a href="https://github.com/SSaadAKHTAR/oxygen">🧙‍♂️ Oxygen: A RISC-V assembly simulator</a></li>
+  <li><a href="https://github.com/SSaadAKHTAR/oxygen">🧙‍♂️ UVMverifier: A UVM verification plan and enviorment generator of any DUT using GenAi</a></li>
 
  <br>
 </ul>
